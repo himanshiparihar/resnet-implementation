@@ -1,2 +1,2 @@
-# resnet-implementation
-resnet implemetation on mnist dataset
+# rnn-implementation
+rnn implemetation on mnist dataset
